@@ -1,0 +1,17 @@
+📊 Habit Tracker with Analytics
+
+A modern web app to track daily habits and improve consistency using streaks, analytics, and smart insights.
+
+🚀 Features
+Create, edit, and delete habits
+Daily habit tracking
+Streak tracking (current & longest) 🔥
+Analytics dashboard with charts 📊
+Habit consistency score
+Heatmap calendar view
+
+🛠️ Tech Stack
+Next.js, React, TypeScript
+Tailwind CSS
+PostgreSQL (Prisma)
+Recharts
